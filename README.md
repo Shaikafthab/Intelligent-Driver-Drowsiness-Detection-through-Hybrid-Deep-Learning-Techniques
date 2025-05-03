@@ -11,3 +11,18 @@ Yawning detection
 Head position
 
 A combination of Convolutional Neural Networks (CNNs) for image-based feature extraction and a hybrid deep learning model (CNN + LSTM/GRU) for temporal pattern analysis was implemented to enhance the accuracy of drowsiness detection.
+Technologies Used:
+Python
+
+OpenCV
+
+TensorFlow / Keras
+
+Deep Learning (CNN, LSTM/GRU)
+
+Matplotlib / Seaborn (for result visualization)
+RESULT
+The model achieved promising results with high accuracy in detecting drowsiness patterns, outperforming traditional single-model architectures by effectively learning both spatial and temporal features.
+
+ Conclusion:
+This project showcases the potential of hybrid deep learning techniques for intelligent transportation systems. It provides a scalable foundation for integrating driver monitoring systems into modern vehicles, contributing to improved road safety and accident prevention.
